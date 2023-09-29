@@ -22,3 +22,9 @@ URL:https://dl.espressif.com/dl/package_esp32_index.json, http://arduino.esp8266
 5)STEP:
 ![image](https://github.com/Sadhurahavan5555/Voice-cmd-led-using-arduion/assets/109868957/cac4d5e0-e197-4883-a28c-321430a1749a)
 
+BLYNK LIBARY INSTALLATION:
+
+BLYNK OFFICIAL DOCUMENTATION LINK:https://docs.blynk.io/en/blynk-library-firmware-api/installation/install-blynk-library-in-arduino-ide
+
+BLYNK SING IN:https://blynk.io/
+
