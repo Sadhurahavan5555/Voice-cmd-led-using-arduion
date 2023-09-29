@@ -16,7 +16,7 @@ void loop() {
 
 BLYNK_WRITE(V1) {
   int pinValue = param.asInt();
-  digitalWrite(D3, pinValue); // Control the LED
+  digitalWrite(D1, pinValue); // Control the LED
 }
 
 BLYNK_WRITE(V2) {
